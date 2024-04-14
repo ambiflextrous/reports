@@ -1,2 +1,2 @@
 ## Effect Studies
-This repository contains data analysis reports focusing on the financial markets.
+This repository contains data analysis reports focusing on the financial markets anomalies.
